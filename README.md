@@ -1,4 +1,4 @@
-#Data Visualization report for a project of Data Analysis :  Ridrs of bikes in US using Ford GoBike system in April 2019
+# Data Visualization report for a project of Data Analysis :  Ridrs of bikes in US using Ford GoBike system in April 2019
 ## by Abdullah Alweheid
 
 ## The data:
